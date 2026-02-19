@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos Corona
 
-<!--
-**Carloscoorona/carloscoorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Data Analyst en transición** con experiencia real en **operaciones y dirección** (educación + cafetería).  
+Me enfoco en análisis que termina en decisiones, no solo gráficas bonitas.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Pandas, Matplotlib)
+- SQL
+- Excel / Google Sheets
+- Data cleaning, EDA, KPIs
+- Storytelling con datos (Notion)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos
+### ☕ CAYA — Business Analytics (KPIs reales)
+Análisis operativo y financiero para optimizar margen, ventas y gastos.
+- KPIs: ventas, gastos, utilidad, margen
+- Insights accionables para operación diaria
+
+👉 Repo: (aquí pondremos el link cuando lo crees)
+
+### 🏃 Running / Performance (próximamente)
+Análisis de entrenamiento y rendimiento.
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/carloscoronadelgado
+- Correo: carloscoorona@gmail.com
