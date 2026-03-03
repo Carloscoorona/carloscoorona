@@ -17,9 +17,20 @@ Análisis operativo y financiero para optimizar margen, ventas y gastos.
 - Insights accionables para operación diaria
 
 👉 Repo: (aquí pondremos el link cuando lo crees)
+### Análisis del desempeño financiero con SQL 
+Análisis
+- SQL
+- Tablas dinámicas, sheets
+  
 
-### 🏃 Running / Performance (próximamente)
-Análisis de entrenamiento y rendimiento.
+
+### Análisis de embudo y retención para MercadoLibre 
+
+
+### Movilidad urbana y productividad económica en ciudades de LATAM
+Análisis sobre movilidad urbanda y su influencia en la productividad económica.
+Tablas unificadas, variables urbanas y económicas en LATAM en 2024
+
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/carloscoronadelgado
